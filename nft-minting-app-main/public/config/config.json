@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe04b24C85aF8B7746c705817856983Ab41530a66",
+  "SCAN_LINK": "https://polygonscan.com/address/0xe04b24c85af8b7746c705817856983ab41530a66",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Oasis Face",
+  "SYMBOL": "OF",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/oasisface",
+  "SHOW_BACKGROUND": true
+}
